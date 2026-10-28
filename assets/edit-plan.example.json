@@ -1,0 +1,116 @@
+{
+  "project_dir": "D:\\Capcut\\Projects\\CapCut Drafts\\1012",
+  "timeline_id": "BD74A443-6B73-4b89-A9BB-70FED2F23531",
+  "timeline_name": "Dòng thời gian 11",
+  "template_timeline_id": "8DC0F921-D804-4e64-9746-3FFCA79DE331",
+  "font_set_id": "BO_13",
+  "line1_font_file": "VN-Prata-Regular.ttf",
+  "line2_font_file": "VN-Allura-Regular.ttf",
+  "audio": {
+    "path": "e:\\DỰ ÁN LỚN\\VÒNG TAY\\VIDEO NGUỒN\\C12-FLORA\\flora 4.wav",
+    "duration_us": 23666666
+  },
+  "clips": [
+    {
+      "path": "e:\\DỰ ÁN LỚN\\VÒNG TAY\\VIDEO NGUỒN\\C12-FLORA\\0591.mp4",
+      "source_start_us": 0,
+      "duration_us": 4433333,
+      "transition_resource_id": "7269672934933795329",
+      "transition_name": "Lấp lánh mờ"
+    },
+    {
+      "path": "e:\\DỰ ÁN LỚN\\VÒNG TAY\\VIDEO NGUỒN\\C12-FLORA\\0593.mp4",
+      "source_start_us": 0,
+      "duration_us": 1666666,
+      "transition_resource_id": "7452646287318454785",
+      "transition_name": "Biến hình lấp lánh"
+    },
+    {
+      "path": "e:\\DỰ ÁN LỚN\\VÒNG TAY\\VIDEO NGUỒN\\C12-FLORA\\0598.mp4",
+      "source_start_us": 0,
+      "duration_us": 2233333,
+      "transition_resource_id": "7361758943661527569",
+      "transition_name": "Lấp lánh"
+    },
+    {
+      "path": "e:\\DỰ ÁN LỚN\\VÒNG TAY\\VIDEO NGUỒN\\C12-FLORA\\0600.mp4",
+      "source_start_us": 0,
+      "duration_us": 2933333,
+      "transition_resource_id": "7682682952043547911",
+      "transition_name": "Mờ kim sa"
+    },
+    {
+      "path": "e:\\DỰ ÁN LỚN\\VÒNG TAY\\VIDEO NGUỒN\\C12-FLORA\\0596.mp4",
+      "source_start_us": 0,
+      "duration_us": 2266666,
+      "transition_resource_id": "7522416272844295441",
+      "transition_name": "Mờ lấp lánh"
+    },
+    {
+      "path": "e:\\DỰ ÁN LỚN\\VÒNG TAY\\VIDEO NGUỒN\\C12-FLORA\\0594.mp4",
+      "source_start_us": 0,
+      "duration_us": 3666666,
+      "transition_resource_id": "7452646287326843393",
+      "transition_name": "Thu phóng lấp lánh"
+    },
+    {
+      "path": "e:\\DỰ ÁN LỚN\\VÒNG TAY\\VIDEO NGUỒN\\C12-FLORA\\0592.mp4",
+      "source_start_us": 0,
+      "duration_us": 6466669,
+      "transition_resource_id": null,
+      "transition_name": null
+    }
+  ],
+  "text_pairs": [
+    {
+      "start_us": 0,
+      "duration_us": 4433333,
+      "line1": "Quà tặng 20/10",
+      "line2": "không cần quá đắt đỏ",
+      "safe_zone_preset": "upper_above_head",
+      "y1": 0.66,
+      "y2": 0.57,
+      "note": "Mẫu ở giữa khung hình, tay đeo vòng ở dưới -> Đặt chữ ở vùng trống phía trên đầu mẫu"
+    },
+    {
+      "start_us": 4433333,
+      "duration_us": 1666666,
+      "line1": "Flora Anh Đào",
+      "line2": "by The Yên",
+      "safe_zone_preset": "lower_below_product",
+      "y1": -0.39,
+      "y2": -0.47,
+      "note": "Cận cảnh vòng tay ở chính giữa nền cỏ -> Đặt chữ ở vùng an toàn dưới vòng tay"
+    },
+    {
+      "start_us": 6099999,
+      "duration_us": 2233333,
+      "line1": "Dây rút điều chỉnh",
+      "line2": "nàng nào cũng vừa size",
+      "safe_zone_preset": "mid_lower_chest_gap",
+      "y1": -0.25,
+      "y2": -0.34,
+      "note": "Mặt mẫu ở trên cao (+0.15), hai tay kéo dây rút ở dưới (-0.48) -> Đặt chữ ở khoảng ngực áo trống giữa cằm và cổ tay"
+    },
+    {
+      "start_us": 8333332,
+      "duration_us": 5199999,
+      "line1": "Thạch anh dâu tây",
+      "line2": "mix vỏ sò, ngọc trai",
+      "safe_zone_preset": "lower_below_product",
+      "y1": -0.35,
+      "y2": -0.44,
+      "note": "Cận cảnh thẻ đen & vòng tay trên cổ tay ở giữa -> Đặt chữ ở vùng an toàn dưới"
+    },
+    {
+      "start_us": 13533331,
+      "duration_us": 3666666,
+      "line1": "Thông điệp thanh xuân",
+      "line2": "như hoa nở mùa xuân",
+      "safe_zone_preset": "upper_above_head",
+      "y1": 0.64,
+      "y2": 0.55,
+      "note": "Mẫu ngồi quán cafe, mặt ở giữa, tay đeo vòng ở -0.46 -> Đưa chữ lên vùng trống phía trên đầu mẫu"
+    }
+  ]
+}

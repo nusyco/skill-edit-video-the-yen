@@ -1,0 +1,178 @@
+[
+  {
+    "id": "BO_01",
+    "label": "BỘ 01: MIGRA + AMORESA",
+    "group": "Luxury Display + Script",
+    "line1_font_file": "LF Migra.ttf",
+    "line2_font_file": "LF Amoresa.ttf",
+    "vibe": "Sang trọng cổ điển, cực hợp vòng tay đá hồng/trắng, ngọc trai"
+  },
+  {
+    "id": "BO_02",
+    "label": "BỘ 02: HATTON + SPLENDID SCRIPT",
+    "group": "Luxury Display + Script",
+    "line1_font_file": "LF Hatton Regular.ttf",
+    "line2_font_file": "LF Splendid Script.ttf",
+    "vibe": "Tạp chí High-Fashion, thanh mảnh quý phái"
+  },
+  {
+    "id": "BO_03",
+    "label": "BỘ 03: GLIFTA ITALIC + DESIRABLE",
+    "group": "Luxury Display + Script",
+    "line1_font_file": "LF Glifta Italic.ttf",
+    "line2_font_file": "LF Desirable Calligraphy.ttf",
+    "vibe": "Nữ tính, bay bổng, hợp các dòng vòng hoa anh đào Flora"
+  },
+  {
+    "id": "BO_04",
+    "label": "BỘ 04: CYRENE + ANIYAH SCRIPT",
+    "group": "Luxury Display + Script",
+    "line1_font_file": "LF Cyrene.ttf",
+    "line2_font_file": "LF Aniyah Script.ttf",
+    "vibe": "Cách điệu nghệ thuật, hợp dòng sản phẩm giới hạn (Limited)"
+  },
+  {
+    "id": "BO_05",
+    "label": "BỘ 05: FINURA + AUSTYNS SAKYRA",
+    "group": "Luxury Display + Script",
+    "line1_font_file": "LF Finura Roman.ttf",
+    "line2_font_file": "LF Austyns Sakyra Regular.ttf",
+    "vibe": "Tối giản hiện đại kết hợp chữ ký phóng khoáng"
+  },
+  {
+    "id": "BO_06",
+    "label": "BỘ 06: NEWSREADER + FRENCH KISS",
+    "group": "Luxury Display + Script",
+    "line1_font_file": "VN-Newsreader-BoldItalic.ttf",
+    "line2_font_file": "LF French Kiss.ttf",
+    "vibe": "Lãng mạn kiểu Pháp, rõ nét trên mọi nền sáng/tối"
+  },
+  {
+    "id": "BO_07",
+    "label": "BỘ 07: MILEAST + CHERRY BLOSSOM",
+    "group": "Luxury Display + Script",
+    "line1_font_file": "LF Mileast.ttf",
+    "line2_font_file": "LF Cherry Blossom.ttf",
+    "vibe": "Trẻ trung, ngọt ngào, hợp mùa xuân / quà tặng bạn gái"
+  },
+  {
+    "id": "BO_08",
+    "label": "BỘ 08: MEGIVIA ITALIC + IMPERIAL SCRIPT",
+    "group": "Luxury Display + Script",
+    "line1_font_file": "LF Megivia Italic.ttf",
+    "line2_font_file": "VN-ImperialScript-Regular.ttf",
+    "vibe": "Hoàng gia, quý phái, hợp vòng ngọc bích / phỉ thúy"
+  },
+  {
+    "id": "BO_09",
+    "label": "BỘ 09: CAUDEX ITALIC + BOLGIFAM SCRIPT",
+    "group": "Luxury Display + Script",
+    "line1_font_file": "VN-Caudex-BoldItalic.ttf",
+    "line2_font_file": "LF BolgifamScript.ttf",
+    "vibe": "Đậm đà, ấm áp, hợp vòng phong thủy bình an"
+  },
+  {
+    "id": "BO_10",
+    "label": "BỘ 10: THEGORA + THESIGNATURE",
+    "group": "Luxury Display + Script",
+    "line1_font_file": "LF Thegora.ttf",
+    "line2_font_file": "LF Thesignature.ttf",
+    "vibe": "Cá tính, chữ ký thương hiệu cao cấp"
+  },
+  {
+    "id": "BO_11",
+    "label": "BỘ 11: WINSTGUE + SATISFY",
+    "group": "Luxury Display + Script",
+    "line1_font_file": "LF Winstgue.ttf",
+    "line2_font_file": "LF Satisfy.ttf",
+    "vibe": "Mềm mại, dễ đọc nhanh trên TikTok"
+  },
+  {
+    "id": "BO_12",
+    "label": "BỘ 12: GLIFTA REGULAR + CARATTERE",
+    "group": "Luxury Display + Script",
+    "line1_font_file": "LF Glifta Regular.ttf",
+    "line2_font_file": "VN-Carattere-Regular.ttf",
+    "vibe": "Tinh tế, chuẩn mực trang sức thiết kế"
+  },
+  {
+    "id": "BO_13",
+    "label": "BỘ 13: PRATA + ALLURA",
+    "group": "Regular/Serif + Handwritten",
+    "line1_font_file": "VN-Prata-Regular.ttf",
+    "line2_font_file": "VN-Allura-Regular.ttf",
+    "vibe": "Chữ thường có chân sang trọng + chữ viết tay mềm mại (Giống mẫu gốc The Yên nhất)"
+  },
+  {
+    "id": "BO_14",
+    "label": "BỘ 14: LIBRE BODONI + DANCING SCRIPT",
+    "group": "Regular/Serif + Handwritten",
+    "line1_font_file": "VN-LibreBodoni-BoldItalic.ttf",
+    "line2_font_file": "VN-DancingScript-Bold.ttf",
+    "vibe": "Độ tương phản nét cao, chữ viết tay nảy nhịp sống động"
+  },
+  {
+    "id": "BO_15",
+    "label": "BỘ 15: BONA NOVA + BEAU RIVAGE",
+    "group": "Regular/Serif + Handwritten",
+    "line1_font_file": "VN-BonaNova-Bold.ttf",
+    "line2_font_file": "VN-BeauRivage-Regular.ttf",
+    "vibe": "Cổ điển châu Âu, nét bút mực thư pháp thanh thoát"
+  },
+  {
+    "id": "BO_16",
+    "label": "BỘ 16: LORA ITALIC + CORINTHIA",
+    "group": "Regular/Serif + Handwritten",
+    "line1_font_file": "VN-Lora-BoldItalic.ttf",
+    "line2_font_file": "VN-Corinthia-Bold.ttf",
+    "vibe": "Dịu dàng, thơ mộng, cực kỳ ăn hình trên nền cỏ / quán cafe"
+  },
+  {
+    "id": "BO_17",
+    "label": "BỘ 17: POLTAWSKI NOWY + EPHESIS",
+    "group": "Regular/Serif + Handwritten",
+    "line1_font_file": "VN-PoltawskiNowy-BoldItalic.ttf",
+    "line2_font_file": "VN-Ephesis-Regular.ttf",
+    "vibe": "Chắc chắn, sắc sảo, tôn chất liệu đá tự nhiên"
+  },
+  {
+    "id": "BO_18",
+    "label": "BỘ 18: SPECTRAL ITALIC + FLEUR DE LEAH",
+    "group": "Regular/Serif + Handwritten",
+    "line1_font_file": "VN-Spectral-BoldItalic.ttf",
+    "line2_font_file": "VN-FleurDeLeah-Regular.ttf",
+    "vibe": "Chữ viết tay có hoa văn cuốn lượn độc đáo"
+  },
+  {
+    "id": "BO_19",
+    "label": "BỘ 19: FRAUNCES ITALIC + GWENDOLYN",
+    "group": "Regular/Serif + Handwritten",
+    "line1_font_file": "VN-Fraunces-BoldItalic.ttf",
+    "line2_font_file": "VN-Gwendolyn-Bold.ttf",
+    "vibe": "Ấm áp, gần gũi như lời tâm sự viết tay trên thiệp quà"
+  },
+  {
+    "id": "BO_20",
+    "label": "BỘ 20: BE VIETNAM PRO + STYLE SCRIPT",
+    "group": "Regular/Serif + Handwritten",
+    "line1_font_file": "VN-BeVietnamPro-SemiBold.ttf",
+    "line2_font_file": "VN-StyleScript-Regular.ttf",
+    "vibe": "Dòng 1 không chân (Sans-serif) hiện đại rõ nét + Dòng 2 viết tay phóng khoáng"
+  },
+  {
+    "id": "BO_21",
+    "label": "BỘ 21: ARIMA BOLD + PINYON SCRIPT",
+    "group": "Regular/Serif + Handwritten",
+    "line1_font_file": "VN-Arima-Bold.ttf",
+    "line2_font_file": "VN-PinyonScript-Regular.ttf",
+    "vibe": "Nét tròn trịa nữ tính + chữ viết tay quý tộc"
+  },
+  {
+    "id": "BO_22",
+    "label": "BỘ 22: YESEVA ONE + CHARM BOLD",
+    "group": "Regular/Serif + Handwritten",
+    "line1_font_file": "VN-YesevaOne-Regular.ttf",
+    "line2_font_file": "VN-Charm-Bold.ttf",
+    "vibe": "Đậm chất Á Đông / Phong thủy bình an"
+  }
+]

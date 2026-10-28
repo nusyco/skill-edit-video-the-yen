@@ -1,0 +1,6 @@
+interface:
+  display_name: "Skill Edit Video Vòng Tay The Yên (CapCut PC)"
+  short_description: "Dựng video ngắn vòng tay/trang sức chuẩn TikTok Safe Zone, 100% chuyển cảnh lấp lánh và 22 bộ font Việt hóa trên CapCut PC"
+  default_prompt: "Dùng $skill-edit-video-the-yen để dựng video vòng tay theo kịch bản vào Timeline CapCut PC, gắn 100% chuyển cảnh lấp lánh, chọn bộ font Việt hóa phù hợp, căn chỉnh chữ nằm trong khung an toàn TikTok và tuyệt đối không che mặt mẫu hay sản phẩm."
+policy:
+  allow_implicit_invocation: false

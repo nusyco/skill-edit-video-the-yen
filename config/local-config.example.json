@@ -1,0 +1,83 @@
+{
+  "capcut_drafts_root": "D:\\Capcut\\Projects\\CapCut Drafts",
+  "default_project_id": "1012",
+  "raw_video_root": "e:\\DỰ ÁN LỚN\\VÒNG TAY\\VIDEO NGUỒN",
+  "finished_video_root": "e:\\DỰ ÁN LỚN\\VÒNG TAY\\VIDEO ĐÃ EDIT",
+  "script_excel_path": "e:\\DỰ ÁN LỚN\\VÒNG TAY\\Kịch bản video Vòng Tay.xlsx",
+  "font_repository_dir": "e:\\DỰ ÁN LỚN\\VÒNG TAY\\FONT VIET HOA CACH DIEU",
+  "windows_user_fonts_dir": "C:\\Users\\nusyc\\AppData\\Local\\Microsoft\\Windows\\Fonts",
+  "canvas": {
+    "width": 1080,
+    "height": 1920,
+    "fps": 30
+  },
+  "tiktok_safe_zone": {
+    "x_min": -0.72,
+    "x_max": 0.72,
+    "y_min": -0.48,
+    "y_max": 0.76,
+    "top_dead_zone_y": 0.82,
+    "bottom_dead_zone_y": -0.50,
+    "right_sidebar_x": 0.72,
+    "presets": {
+      "upper_above_head": { "y1": 0.65, "y2": 0.56 },
+      "mid_lower_chest_gap": { "y1": -0.25, "y2": -0.34 },
+      "lower_below_product": { "y1": -0.37, "y2": -0.46 }
+    }
+  },
+  "text_sizing": {
+    "target_width_ratio_min": 0.48,
+    "target_width_ratio_max": 0.62,
+    "line1_target_measure_units": 330,
+    "line2_target_measure_units": 350,
+    "line1_fill_hex": "#F9DE90",
+    "line1_stroke_hex": "#583D27",
+    "line1_stroke_width": 0.08,
+    "line2_fill_hex": "#FFFFFF",
+    "line2_shadow_alpha": 0.65
+  },
+  "sparkle_transitions": [
+    {
+      "name": "Lấp lánh mờ",
+      "resource_id": "7269672934933795329",
+      "effect_id": "7269672934933795329",
+      "duration_us": 500000,
+      "is_overlap": true
+    },
+    {
+      "name": "Biến hình lấp lánh",
+      "resource_id": "7452646287318454785",
+      "effect_id": "7452646287318454785",
+      "duration_us": 500000,
+      "is_overlap": true
+    },
+    {
+      "name": "Lấp lánh",
+      "resource_id": "7361758943661527569",
+      "effect_id": "7361758943661527569",
+      "duration_us": 500000,
+      "is_overlap": true
+    },
+    {
+      "name": "Mờ kim sa",
+      "resource_id": "7682682952043547911",
+      "effect_id": "7682682952043547911",
+      "duration_us": 500000,
+      "is_overlap": true
+    },
+    {
+      "name": "Mờ lấp lánh",
+      "resource_id": "7522416272844295441",
+      "effect_id": "7522416272844295441",
+      "duration_us": 500000,
+      "is_overlap": true
+    },
+    {
+      "name": "Thu phóng lấp lánh",
+      "resource_id": "7452646287326843393",
+      "effect_id": "7452646287326843393",
+      "duration_us": 500000,
+      "is_overlap": true
+    }
+  ]
+}
